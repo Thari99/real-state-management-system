@@ -1,0 +1,31 @@
+.contact-us-container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 65px 23px;
+    font-family: Arial, sans-serif;
+  }
+  
+.contact-h1h2 {
+    text-align: center;
+  }
+  
+  .contact-info {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  
+  .contact-info p {
+    margin: 10px 0;
+    font-size: 16px;
+  }
+  
+  .contact-info a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .contact-info a:hover {
+    text-decoration: underline;
+  }
+  

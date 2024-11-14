@@ -1,0 +1,4 @@
+.venv/
+backend/virt/
+node_modules/
+backend\virt
